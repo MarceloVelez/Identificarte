@@ -129,9 +129,6 @@ header{
         max-width: 100%;
         display: block;
     }
-    .item{
-        cursor: pointer;
-    }
     .item-text{
         padding: 1em;
         color: whitesmoke;
@@ -175,7 +172,6 @@ header{
 /*FOOTER*/
 footer {
     width: 100%;
-    background-image: url(img/background-footer.svg);
     background-size: cover;
     margin-bottom: 20px;
     .container__footer {

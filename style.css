@@ -170,10 +170,6 @@ header #check {
   display: block;
 }
 
-.container .item {
-  cursor: pointer;
-}
-
 .container .item-text {
   padding: 1em;
   color: whitesmoke;
@@ -222,7 +218,6 @@ header #check {
 /*FOOTER*/
 footer {
   width: 100%;
-  background-image: url(img/background-footer.svg);
   background-size: cover;
   margin-bottom: 20px;
 }
